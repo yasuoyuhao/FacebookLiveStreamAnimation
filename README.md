@@ -6,4 +6,4 @@ FacebookLiveStreamAnimation
 
 - FacebookLiveStreamAnimation，facebook直播的動畫效果
 
-!![image](https://github.com/yasuoyuhao/FacebookLiveStreamAnimation/blob/master/FB_.gif)
+![image](https://github.com/yasuoyuhao/FacebookLiveStreamAnimation/blob/master/FB_.gif)
